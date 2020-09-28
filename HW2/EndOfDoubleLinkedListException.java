@@ -14,7 +14,8 @@ public class EndOfDoubleLinkedListException extends Exception {
     
     /**
     * An exception where the message is written 
-    * stating that the planner is full
+    * stating that the cursor is at the end of 
+    * the double linked list
     * 
     * @param message 
     *   This String argument returns a message stating
