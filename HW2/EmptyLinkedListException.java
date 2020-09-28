@@ -14,7 +14,7 @@
 public class EmptyLinkedListException extends Exception {
     /**
     * An exception where the message is written 
-    * stating that the planner is full
+    * stating that the double linked list is empty
     * 
     * @param message 
     *   This String argument returns a message stating
