@@ -10,7 +10,7 @@ import java.util.Collection;
  * is sent to a router where it's most empty to ensure fairness
  * 
  * @author 
- *   Jason Tan, SBU ID: 112319102
+ *   Jason Tan, SBU ID: N/A
  * 
  * CSE 214 HW 4
  * Recitation 1: Jian Xi Chen
