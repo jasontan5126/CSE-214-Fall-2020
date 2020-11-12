@@ -4,7 +4,7 @@
  * equal to maximum size of packet entered
  * 
  * @author 
- *   Jason Tan, SBU ID: 112319102
+ *   Jason Tan, SBU ID: N/A
  * 
  * CSE 214 HW 4
  * Recitation 1: Jian Xi Chen
