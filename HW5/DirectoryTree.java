@@ -2,7 +2,7 @@
  * A class where a 3 child tree of the DirectoryNodes class are implemented
  * to imitate the Linux Server command
  * @author 
- *   Jason Tan, SBU ID: 112319102
+ *   Jason Tan, SBU ID: N/A
  * 
  * CSE 214 HW 5
  * Recitation 1: Jian Xi Chen
