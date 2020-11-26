@@ -1,7 +1,7 @@
 /**
  * A class for the exception to be thrown
  * if the auction is closed
- *   Jason Tan, SBU ID: 112319102
+ *   Jason Tan, SBU ID: N/A
  * 
  * CSE 214 HW 6
  * Recitation 1: Jian Xi Chen
