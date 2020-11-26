@@ -2,7 +2,7 @@
  * A class implemented to have the user interact with the database by listing open 
  * auction, make bids on open auction, and create new auction for different items.
  * @author 
- *   Jason Tan, SBU ID: 112319102
+ *   Jason Tan, SBU ID: N/A
  * 
  * CSE 214 HW 6
  * Recitation 1: Jian Xi Chen
