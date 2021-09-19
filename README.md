@@ -1,4 +1,4 @@
-# CSE-214-Fall-2020
+# CSE-214-Data Structures Fall-2020
 
 
 All the source codes done in CSE 214 Data Structures at Stony Brook University by me using mainly Java. 
